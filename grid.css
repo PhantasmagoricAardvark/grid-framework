@@ -53,7 +53,6 @@ table {
 	display: grid;
 	grid-gap: 10px;
 	margin-bottom: 20px;
-	text-align: center;
 }
 
 .col-12 {
@@ -62,7 +61,6 @@ table {
 }
 
 .row div {
-	background: burlywood;
 	padding: 10px 0;
 }
 
